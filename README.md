@@ -1,7 +1,12 @@
 # cm-software-pswe03-cenfotec
 
+# Menú
+# 1- Gilded Rose - Versión Refactorizada
+# 2- Smelly - Versión Refactorizada
 
-# Gilded Rose - Versión Refactorizada
+
+
+# Gilded Rose
 
 ## Descripción
 
@@ -72,3 +77,32 @@ java com.gildedrose.Main
 - `Aged Brie` aumenta su calidad con el tiempo.
 - `Backstage passes` aumenta su calidad dependiendo de los días restantes, pero baja a 0 después del concierto.
 - Ítems normales disminuyen su calidad cada día, más rápido si la fecha de venta ha pasado.
+
+
+
+# Smelly Code Refactored
+
+
+## 🧼 Refactorización Aplicada
+
+Este proyecto aplica **17 principios de refactorización** con **dos ejemplos por cada uno**, mejorando la calidad del código, mantenibilidad y escalabilidad.
+
+## 🛠️ Estructura del Proyecto
+
+```
+src/
+├── constants/
+├── db/
+├── interfaces/
+├── order/
+├── report/
+├── user/
+├── utils/
+└── Main.java
+```
+
+---
+
+## 🚀 Cómo ejecutar
+
+Este proyecto puede compilarse y ejecutarse usando cualquier IDE de Java (como IntelliJ IDEA o Eclipse) o mediante línea de comandos.
